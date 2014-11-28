@@ -1,0 +1,37 @@
+BODY {
+	scrollbar-3dLight-Color: #F6F6F6;
+	scrollbar-Arrow-Color: #F6F6F6;
+	scrollbar-Base-Color: #E2E2E2;
+	scrollbar-Dark-ShadowColor: #000000;
+	scrollbar-Face-Color: #CCCCCC;
+	scrollbar-Highlight-Color: #F6F6F6;
+	scrollbar-Shadow-Color: #F6F6F6;
+	scrollbar-Track-Color: #F6F6F6;
+
+	FONT-FAMILY: "宋体";
+}
+TD {
+	FONT-SIZE: 9pt;
+	COLOR: #666666;
+	FONT-FAMILY: "宋体";
+	LINE-HEIGHT: 16px;
+	BORDER: 1px none #E2E2E2;
+}
+A:link {
+	FONT-SIZE: 9pt;
+	COLOR: #666666;
+	TEXT-DECORATION: none;
+	FONT-FAMILY: "宋体";
+}
+A:visited {
+	FONT-SIZE: 9pt;
+	COLOR: #666666;
+	TEXT-DECORATION: none;
+	FONT-FAMILY: "宋体";
+}
+A:hover {
+	FONT-SIZE: 9pt;
+	COLOR: #666666;
+	TEXT-DECORATION: none;
+	FONT-FAMILY: "宋体";
+}
